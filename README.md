@@ -4,6 +4,11 @@ you should be able to quickly run this, having node installed locally, just:
 
 clone && npm install && npm run dev
 
+# screenshot
+
+![plot](./capture.png?)
+
+
 # missing features
 
 - error messages!
